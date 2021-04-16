@@ -1,0 +1,1 @@
+{"Test Accuracy": {"Original": 94, "Oversampling": 6, "SMOTETomek": 0, "SMOTEENN": 0}, "Test Precision": {"Original": 100, "Oversampling": 0, "SMOTETomek": 0, "SMOTEENN": 0}, "Test Recall": {"Original": 0, "Oversampling": 0, "SMOTETomek": 25, "SMOTEENN": 75}, "Test F1 Score": {"Original": 0, "Oversampling": 31, "SMOTETomek": 46, "SMOTEENN": 23}}
